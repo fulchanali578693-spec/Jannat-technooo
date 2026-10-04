@@ -1,0 +1,6 @@
+{
+  "name": "AuraSound - Cash on Delivery Store Template",
+  "description": "A premium, light-mode single-product Cash-on-Delivery (COD) storefront template with zero-hassle Supabase order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
